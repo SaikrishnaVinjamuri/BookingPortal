@@ -1,0 +1,13 @@
+.link_route{
+    text-decoration: none;
+    
+}
+.link_route_bar{
+    display: flex;
+    justify-content: flex-start;
+    gap: 3rem;
+    margin-left: 20px;
+    width: -webkit-fill-available;
+    align-items: center;
+    flex-wrap: nowrap;
+}
